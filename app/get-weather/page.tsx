@@ -42,6 +42,7 @@ export default function GetWeatherPage() {
         "Orlando",
         "San Antonio",
         "Portland",
+        "Austin",
     ];
 
     const [selectedCity, setSelectedCity] = useState<string>("Atlanta");
